@@ -94,30 +94,30 @@ The deltoid is highly segmented. To build wide, "boulder shoulders," prioritize 
 
 ---
 
-## 4. Triceps Training (三頭肌訓練)
+## 4. Triceps Training
 
 Triceps training should target the long head (requires overhead stretch), lateral head, and medial head. 
 
-* **Frequency (頻率)**: 1–2 times per week, with at least 48 hours of recovery between sessions. (每週1至2次，間隔至少48小時恢復。)
-* **Rest Between Sets (每組間休息)**: 60–90 seconds. (60–90秒。)
-* **Intensity (強度)**: Push the last set of each exercise to failure, then continue with lengthened partial reps (half-reps at the stretch). (最後一組推至力竭後，繼續進行延伸的部分反覆動作。)
+* **Frequency**: 1–2 times per week, with at least 48 hours of recovery between sessions.
+* **Rest Between Sets**: 60–90 seconds.
+* **Intensity**: Push the last set of each exercise to failure, then continue with lengthened partial reps (half-reps at the stretch).
 
-### Triceps Workout Structure (三頭肌訓練結構)
+### Triceps Workout Structure
 
-#### 1. Overhead Cable Extension (上拉繩三頭肌伸展)
-* **Sets/組數**: 3–4
-* **Reps/次數**: 10–12
-* **Target/目標**: Long head (posterior tricep), heavily loaded in the stretched position. (長頭，在伸展位置進行高負荷訓練。)
-* ![[Pasted image 20241107121333.png]]
+#### 1. Overhead Cable Extension
+* **Sets**: 3–4
+* **Reps**: 10–12
+* **Target**: Long head (posterior tricep), heavily loaded in the stretched position.
+* ![Overhead Cable Extension](attach/Pasted%20image%2020241107121333.png)
 
-#### 2. Combo: Single-Arm Pull Down + Across-Body Pull Down (單手拉繩下拉 + 橫跨身體三頭肌下拉)
-* **Sets/組數**: 3 per arm (每隻手3組)
-* **Reps/次數**: 10–12 for each movement (每個動作10–12次)
-* **Target/目標**: Medial and lateral heads (outer sweep and width). (側頭與內側頭，增加手臂外側弧度與寬度。)
+#### 2. Combo: Single-Arm Pull Down + Across-Body Pull Down
+* **Sets**: 3 per arm
+* **Reps**: 10–12 for each movement
+* **Target**: Medial and lateral heads (outer sweep and width).
 * *Reference*: [Video Reference (1st combo)](https://www.youtube.com/watch?v=waku-nPjAM8)
 
-#### 3. Close-Grip Barbell Press (窄握槓鈴臥推)
-* **Sets/組數**: 3–4
-* **Reps/次數**: 6–8
-* **Target/目標**: Medial and lateral heads, building overall mass and pressing power. (內側頭與側頭，增強厚度與力量。)
-* ![[Pasted image 20241107121401.png]]
+#### 3. Close-Grip Barbell Press
+* **Sets**: 3–4
+* **Reps**: 6–8
+* **Target**: Medial and lateral heads, building overall mass and pressing power.
+* ![Close-Grip Barbell Press](attach/Pasted%20image%2020241107121401.png)
